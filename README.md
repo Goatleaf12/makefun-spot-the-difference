@@ -1,6 +1,8 @@
 # Twin Skies — a spot-the-difference balloon festival
 
 [![make.fun bounty](https://make.fun/badge/best-spot-the-difference-game-20261121-0451.svg)](https://make.fun/bounty/best-spot-the-difference-game-20261121-0451)
+[![make.fun rank](https://make.fun/badge/best-spot-the-difference-game-20261121-0451/Goatleaf12/makefun-spot-the-difference/rank.svg)](https://make.fun/bounty/best-spot-the-difference-game-20261121-0451)
+[![make.fun reward](https://make.fun/badge/best-spot-the-difference-game-20261121-0451/Goatleaf12/makefun-spot-the-difference/reward.svg)](https://make.fun/bounty/best-spot-the-difference-game-20261121-0451)
 
 **Twin Skies** is an original spot-the-difference game set at a hot-air balloon
 festival that runs from dawn to dusk. Every scene shows two near-identical
